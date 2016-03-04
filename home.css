@@ -1,0 +1,47 @@
+	body {
+
+background-image: url("http://www.kashiwagidesu.com/wp-content/uploads/0101016-1024x768.jpg");
+
+background-attachment: fixed;
+align:center;
+background-color: blue;
+	}
+.textop {
+
+color: red;
+font-family: sans-serif;
+
+}
+a {
+	color: yellow;
+	text-decoration: none;
+	font-weight: bold;
+
+
+
+
+}
+#container {
+margin-left: 400px;
+
+}
+/*Special Styles for lesson4.html*/
+.div {
+width: 12;
+overflow: auto;
+
+}
+/*End Lesson 4 Styles*/
+#lesson1-link{
+	position: absolute;
+	top: 200px
+	margin-left:150px;
+}
+#lesson2-link{
+
+position: absolute;
+	top: 200px
+	margin-left:300px;
+
+
+}
